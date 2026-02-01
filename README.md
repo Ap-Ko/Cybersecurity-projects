@@ -59,3 +59,16 @@ Started both virtual machines.
 Checked IP addresses on both systems.
 
 Successfully tested connectivity between Windows and Ubuntu using ping commands
+
+## SCREENSHOT
+
+## Both VMs (Windows and Ubuntu) Running On VirtualBox
+![image alt](https://github.com/Ap-Ko/Cybersecurity-projects/blob/45821e47ac7b0c4eb8aee856fa176115e07923d9/Both%20VM%20running.png)
+
+## Windows and Ubuntu NAT configured in VirtualBox for communication:
+![image alt](https://github.com/Ap-Ko/Cybersecurity-projects/blob/e12b2441c57f9dd03759e4253d73d0ac3290c789/Windows%20VM-%20NAT.png)
+
+![image alt](https://github.com/Ap-Ko/Cybersecurity-projects/blob/e12b2441c57f9dd03759e4253d73d0ac3290c789/Ubuntu%20VM-NAT.png)
+
+## Ping Successfull:
+![image alt](https://github.com/Ap-Ko/Cybersecurity-projects/blob/e12b2441c57f9dd03759e4253d73d0ac3290c789/ping%20successfull.png)
