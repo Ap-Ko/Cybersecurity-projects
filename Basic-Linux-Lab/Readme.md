@@ -24,7 +24,4 @@ Practiced fundamental Linux terminal commands and file management operations usi
 Developed foundational Linux administration and terminal navigation skills relevant to cybersecurity and system administration tasks.
 
 ## Screenshot
-![Screenshot](./Screenshot 2026-05-14 223053.png)
-
-<img width="1648" height="1074" alt="Screenshot 2026-05-14 223053" src="https://github.com/user-attachments/assets/6a878f0b-2972-413f-8ddf-c0c9f40b6e1a" />
-
+![Screenshot](./linux-lab-ss.png)
