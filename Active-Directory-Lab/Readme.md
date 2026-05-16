@@ -39,7 +39,7 @@ Built a Windows Server Active Directory lab environment by installing Active Dir
 Successfully deployed an Active Directory lab environment and practiced enterprise-style user and group management tasks relevant to SOC Analyst and IT Administration roles.
 
 ## Screenshot
-## 1. AD installed and Domain (Cyber.lab) created
+## 1. AD installed and Domain (cyberlab.local) created
 <img width="1017" height="871" alt="1  AD installed and Domain created" src="https://github.com/user-attachments/assets/8ce0de20-6a3d-454e-b2c7-a684b8871740" />
 
 ## 2.User Created Apo Ko
