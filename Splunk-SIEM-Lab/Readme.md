@@ -43,6 +43,30 @@ In this lab I installed Splunk Enterprise inside my Windows Server VM and explor
 ## 6 user-search-ApKo
 <img width="1916" height="1117" alt="6 user-search-ApKo" src="https://github.com/user-attachments/assets/dc6096b8-8d57-4a45-8c80-f09af20ab806" />
 
+## Detection Lab
+
+Created a basic Splunk alert to detect failed login activity using Windows Event ID 4625.
+
+The alert was configured to trigger when multiple failed login attempts were detected.
+
+## Screenshot
+
+## failed-login-alert-settings
+<img width="1918" height="1116" alt="failed-login-alert-settings" src="https://github.com/user-attachments/assets/41c9b69f-b165-41ec-ba70-5e6d5f375a14" />
+
+## failed-login-search-results
+<img width="1918" height="1118" alt="failed-login-search-results" src="https://github.com/user-attachments/assets/508b3d09-bde8-47c2-8f38-38a08b2accac" />
+
+## splunk-alert-created
+<img width="1918" height="1122" alt="splunk-alert-created" src="https://github.com/user-attachments/assets/7108998c-3ac1-4ce8-bd73-dd924f591bab" />
+
+## splunk-alert-list
+<img width="1918" height="1117" alt="splunk-alert-list" src="https://github.com/user-attachments/assets/fb0e35b8-819b-4b3f-85e7-7f24681e3a31" />
+
+
+
+
+
 
 
 
