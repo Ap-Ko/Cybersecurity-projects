@@ -23,10 +23,10 @@ In this lab I installed Splunk Enterprise inside my Windows Server VM and explor
 - Windows Server 2022
 - VirtualBox
 
-- ## Screenshot
+## Screenshot
 
-- ## 1. Splunk Dashboard
-- <img width="1917" height="1142" alt="1  Splunk Dashboard" src="https://github.com/user-attachments/assets/85056392-3ccc-48f9-9c37-2cf2a2d1fd34" />
+## 1. Splunk Dashboard
+<img width="1917" height="1142" alt="1  Splunk Dashboard" src="https://github.com/user-attachments/assets/85056392-3ccc-48f9-9c37-2cf2a2d1fd34" />
 
 ## 2. windows-event-log-selection
 <img width="1911" height="1117" alt="2  windows-event-log-selection" src="https://github.com/user-attachments/assets/4f864dfe-4f2b-4b32-9e9c-bd9276a439a9" />
